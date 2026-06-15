@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms\BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormAddEditSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormAdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormAdminProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormBookSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormInputComplete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormKonsumenDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormLaporan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormManageBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormManageSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormManageUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
