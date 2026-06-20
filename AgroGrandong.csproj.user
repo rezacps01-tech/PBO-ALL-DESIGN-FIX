@@ -2,46 +2,46 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <Compile Update="Forms\BaseForm.cs">
+    <Compile Update="View\BaseForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\FormAddEditSchedule.cs">
+    <Compile Update="View\FormAddEditSchedule.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\FormAdminDashboard.cs">
+    <Compile Update="View\FormAdminDashboard.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\FormAdminProfile.cs">
+    <Compile Update="View\FormAdminProfile.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\FormBookSchedule.cs">
+    <Compile Update="View\FormBookSchedule.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\FormInputComplete.cs">
+    <Compile Update="View\FormInputComplete.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\FormKonsumenDashboard.cs">
+    <Compile Update="View\FormKonsumenDashboard.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\FormLaporan.cs">
+    <Compile Update="View\FormLaporan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\FormLogin.cs">
+    <Compile Update="View\FormLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\FormManageBooking.cs">
+    <Compile Update="View\FormManageBooking.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\FormManageSchedule.cs">
+    <Compile Update="View\FormManageSchedule.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\FormManageUsers.cs">
+    <Compile Update="View\FormManageUsers.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\FormProfile.cs">
+    <Compile Update="View\FormProfile.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\FormRegister.cs">
+    <Compile Update="View\FormRegister.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
